@@ -1,0 +1,7 @@
+node_modules
+coverage
+.idea/
+/build
+*.log
+/.sass-cache
+dist
